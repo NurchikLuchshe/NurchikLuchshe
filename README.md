@@ -1,32 +1,43 @@
-<h1 align="center">Hi, I'm Onur 👋</h1>
+<h1 align="center">Hey there, I'm Onur! 👋</h1>
+<h3 align="center">15 y.o. self-taught developer from Samarkand 🇺🇿</h3>
 
-- 🔭 I’m currently working on Vue.js + Firebase project  
-- 🌱 I’m learning TypeScript and improving my English  
-- 💬 Ask me about **Frontend, Vue, Firebase**  
-- ⚡ Fun fact: I love CS2 and trading skins 🕹️  
-
----
-
-### 📫 Contact me:
-- Email: onur@example.com  
-- Telegram: [@onurdev](https://t.me/onurdev)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;Vue.js+%2B+Firebase+Enthusiast;CS2+Lover+and+Skin+Trader" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🚀 My Tech Stack:
+### 🧠 About Me
 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-
----
-
-### 📊 My GitHub Stats:
-
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=onurdev&show_icons=true&theme=tokyonight)
+- 🧑‍💻 I love building web apps with **Vue.js**  
+- 🔥 Currently working on a project using **Firebase**  
+- 🎯 Learning **TypeScript** and practicing **English speaking**
+- 🕹 CS2 top fragger with love for AK-47 skins  
+- 📍 Based in **Samarkand, Uzbekistan**
 
 ---
 
-⭐️ Спасибо, что заглянул в мой профиль!
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,firebase,js,ts,html,css,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdev&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</p>
+
+<p align="center">Thanks for visiting! ⭐️</p>
+
