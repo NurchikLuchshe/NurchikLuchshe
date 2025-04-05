@@ -1,43 +1,64 @@
-<h1 align="center">Hey there, I'm Onur! 👋</h1>
-<h3 align="center">15 y.o. self-taught developer from Samarkand 🇺🇿</h3>
+<!-- WELCOME BANNER -->
+<h1 align="center">🌟 Hey, I'm Onur 🌟</h1>
+<h3 align="center">💻 15 y.o. Developer | 🇺🇿 Samarkand | Vue.js ⚡ Firebase ⚔️ CS2</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=435&lines=Frontend+Developer;Vue.js+%2B+Firebase+Enthusiast;CS2+Lover+and+Skin+Trader" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🧑‍💻 I love building web apps with **Vue.js**  
-- 🔥 Currently working on a project using **Firebase**  
-- 🎯 Learning **TypeScript** and practicing **English speaking**
-- 🕹 CS2 top fragger with love for AK-47 skins  
-- 📍 Based in **Samarkand, Uzbekistan**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,firebase,js,ts,html,css,github,vscode" />
-</p>
+- 👨‍💻 I'm passionate about **web development**  
+- 🛠 Currently building with **Vue.js** + **Firebase**  
+- 🎮 Top player in **CS2**, love trading **AK-47 skins**
+- 🌍 Learning English + Improving every day  
+- 💡 Always building, learning, and leveling up
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onurdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=vue,firebase,js,ts,html,css,tailwind,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onurdev&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onurdev&theme=radical" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onurdev&layout=compact&theme=radical" width="48%" />
+</div>
+
+---
+
+### 🎯 My Goals
+
+- 🔄 Daily practice on real projects  
+- 🔥 Master TypeScript & advanced Vue patterns  
+- 🌐 Build my personal portfolio site  
+- ✨ Get noticed by cool devs and collab worldwide
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://t.me/onurdev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/onurdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- Add more if you want -->
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-<p align="center">Thanks for visiting! ⭐️</p>
 
