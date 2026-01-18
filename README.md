@@ -1,66 +1,61 @@
 <div align="center">
-
-  <a href="https://github.com/NurchikLuchshe">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ONUR;FULL+STACK+DEVELOPER;VUE.JS+%2B+FIREBASE;EST.+2010" alt="Typing SVG" />
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=ONUR;WEB+DEVELOPER;CREATIVE+MIND" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="80%">
 
   <br/><br/>
 
-</div>
+  <p style="font-family: 'Courier New', Courier, monospace; font-size: 14px; color: #D4D4D4;">
+    15 Y.O. &nbsp; | &nbsp; SAMARKAND &nbsp; | &nbsp; VUE.JS ECOSYSTEM
+  </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center" style="border-bottom: 2px solid #fff; padding-bottom: 10px;">MY PHILOSOPHY</h3>
-      <br/>
-      <p align="center">
-        "Code is like humor. When you have to explain it, it’s bad."
-      </p>
-      <p align="justify">
-        Я разработчик из Самарканда. Моя страсть — создавать <br/>
-        <b>минималистичные</b>, быстрые и удобные интерфейсы.<br/>
-        <br/>
-        ⚡ <b>Focus:</b> Frontend Architecture<br/>
-        🌑 <b>Style:</b> Clean & Efficient<br/>
-        🔭 <b>Current:</b> Building High-load Apps
-      </p>
-      <br/>
-      <div align="center">
-        <a href="https://t.me/ТВОЙ_НИК">
-          <img src="https://img.shields.io/badge/TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white&border=1" />
-        </a>
-      </div>
-    </td>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center" style="border-bottom: 2px solid #fff; padding-bottom: 10px;">STATS & SKILLS</h3>
-      <br/>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NurchikLuchshe&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=ffffff&count_private=true" width="100%" />
-      </div>
-      <br/>
-      <div align="center">
-        <img src="https://img.shields.io/badge/VUE-black?style=flat-square&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TS-black?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/FIREBASE-black?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/TAILWIND-black?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/GIT-black?style=flat-square&logo=git&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
+  <br/>
 
-<div align="center">
+  <p width="500px" align="center" style="color: #999999; font-style: italic;">
+    "Code is like humor. When you have to explain it, it’s bad."
+  </p>
+
+  <br/><br/>
+
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" style="filter: grayscale(100%) brightness(200%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" style="filter: grayscale(100%) brightness(200%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" style="filter: grayscale(100%) brightness(200%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" style="filter: grayscale(100%) brightness(200%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" style="filter: grayscale(100%) brightness(200%);" />
+  </a>
+
+  <br/><br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=NurchikLuchshe&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&hide=stars,issues" height="140" alt="stats" />
+  
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurchikLuchshe&bg_color=000000&color=ffffff&line=999999&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurchikLuchshe&theme=react-dark&bg_color=0D1117&hide_border=true&color=ffffff&line=ffffff&point=ffffff&area=true" width="100%" />
 
   <br/><br/>
-  
-  <p style="font-family: monospace; color: #555;">
-    SAMARKAND // 2026 // NOIR EDITION
+
+  <p>
+    <a href="https://t.me/ТВОЙ_НИК">
+      <img src="https://img.shields.io/badge/-TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
+    </a>
   </p>
+
 </div>
